@@ -86,13 +86,21 @@ when 0..12
 # 入力例
 # ab5?cd
 # 出力例
-ab5?cd
-6
-dc?5ba
-AB5?CD
-b5?c
-AB?Cd
+1. ab5?cd
+2. 6
+3. dc?5ba
+4. AB5?CD
+5. b5?c
+6. AB?Cd
 ```
+1. puts 'ab5?cd'
+
+5. arr.map do |item|
+  item.upcase
+ end
+
+3.
+
 
 ## 5. 適切なプログラムを書け
 
