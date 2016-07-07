@@ -22,7 +22,7 @@
 標準出力に Hello World と出力するRubyのプログラムを書け。
 
 ```ruby
-
+       puts 'Hello World'
 ```
 
 ## 2. 適切なものを選び、説明を埋めよ
@@ -31,9 +31,9 @@
 *Fixnum*, *Bignum*, *Float*, *Bool*, *String*
 
 ```
-# 存在しない型
+# 存在しない型  Bignum,String,Float,Bool
 
-# 存在する型と具体例
+# 存在する型と具体例 Fixnum,String
 # [答え方の例]
 # 型: 具体例
 
@@ -64,6 +64,8 @@
 # 19 1
 # 出力例2
 # 1000
+  puts '年齢、性別（男0、女1）を入力'
+ when 
 
 
 ```
